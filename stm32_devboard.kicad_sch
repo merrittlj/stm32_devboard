@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "f8715f6f-6aff-4724-9d5e-e4221e6a4a25")
 	(paper "A4")
+	(title_block
+		(title "STM32 Custom Development Board")
+		(date "2024-07-27")
+		(rev "4 update fp.")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x05"
 			(pin_names
@@ -5525,17 +5530,6 @@
 		)
 		(uuid "0ce9b615-0c50-4051-9137-04272fe8bb9a")
 	)
-	(text "07/16/2024\n"
-		(exclude_from_sim no)
-		(at 215.646 193.548 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 0 1)
-			)
-		)
-		(uuid "225d03d5-ded7-42c1-b31f-b02350b35396")
-	)
 	(text "Power Supply\n3.3V, 300mA"
 		(exclude_from_sim no)
 		(at 108.712 152.654 0)
@@ -5610,17 +5604,6 @@
 		)
 		(uuid "9ee17efb-d9f8-405a-b444-d861215942f4")
 	)
-	(text "STM32 Custom Development Board"
-		(exclude_from_sim no)
-		(at 210.566 189.738 0)
-		(effects
-			(font
-				(size 1.651 1.651)
-				(color 132 0 0 1)
-			)
-		)
-		(uuid "a886fce9-8899-438f-ac58-13cc3a1d7a15")
-	)
 	(text "Pin has internal \nfiltering"
 		(exclude_from_sim no)
 		(at 88.138 52.324 0)
@@ -5672,17 +5655,6 @@
 			)
 		)
 		(uuid "e8363503-da7c-4f75-b108-262854df0d28")
-	)
-	(text "4 update fp."
-		(exclude_from_sim no)
-		(at 275.082 193.548 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 0 1)
-			)
-		)
-		(uuid "fc375964-dd22-457a-ad19-1ef3b346984b")
 	)
 	(text "GND is fine"
 		(exclude_from_sim no)
